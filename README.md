@@ -3,8 +3,6 @@
 
 <p align='center'>CISC 322/326  -  Winter 2023</p>
 
-<p align='center'> Web-Interface for CISC326/322 Group Project and we have 6 team member Co-Operation it.</p>
-
  
 ## 💺 Rules
 
