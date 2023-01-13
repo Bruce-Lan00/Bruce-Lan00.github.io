@@ -1,5 +1,5 @@
 
-<h1 align='center'>🍿  Web-Interface-for-CISC326-322 🍿</h1>
+<h1 align='center'>🍿  Web-Interface-for-CISC326/322 🍿</h1>
 
 <p align='center'>CISC 322/326  -  Winter 2023</p>
 
